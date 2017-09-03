@@ -1,0 +1,5 @@
+instalar mongodb
+instalar express
+resinstalar angular 4
+cli para hacer la app de heroes
+montar la app en heroku usando el cliente de herokuponer en heroku ng2 admin para probra el deployment
