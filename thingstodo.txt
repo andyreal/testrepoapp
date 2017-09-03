@@ -1,5 +1,10 @@
 instalar mongodb
 instalar express
-resinstalar angular 4
-cli para hacer la app de heroes
-montar la app en heroku usando el cliente de herokuponer en heroku ng2 admin para probra el deployment
+resinstalar angular 4 cli para hacer la app de heroes
+montar la app en heroku usando el cliente de herokuponer en heroku ng2-admin para probra el deployment
+
+tambien tengo que rescatar los ejemplos que ya hice y tratar de subirlos a heroku, a la cuenta gratis
+
+tengo que hacer los ejempplos del libro de amazon
+
+tengo que ver todos los videos de javascript
