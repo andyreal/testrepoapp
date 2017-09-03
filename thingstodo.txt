@@ -19,3 +19,4 @@ si la uso online tengo una cuenta en mlab
 para postgres hacer una red local y usar los tres pcs para montar la base de datos en uno de ellos
 
 una mongo en el otro y en el lenovo un linux
+
