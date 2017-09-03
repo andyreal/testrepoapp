@@ -11,3 +11,11 @@ de cada cosa diseñar las funcionalidades para pasar al modelo de los datos
 de cada modulo hacer su entrada y su salida para conectarlos en la aplicacion principal
 
 tambien definir si mongodb o postgres
+
+si uso mongodb local puedo hacer pruebas
+
+si la uso online tengo una cuenta en mlab
+
+para postgres hacer una red local y usar los tres pcs para montar la base de datos en uno de ellos
+
+una mongo en el otro y en el lenovo un linux
