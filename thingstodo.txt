@@ -19,3 +19,22 @@ si la uso online tengo una cuenta en mlab
 para postgres hacer una red local y usar los tres pcs para montar la base de datos en uno de ellos
 
 una mongo en el otro y en el lenovo un linux
+
+instalar mongodb
+instalar express
+resinstalar angular 4 cli para hacer la app de heroes
+montar la app en heroku usando el cliente de herokuponer en heroku ng2-admin para probra el deployment
+
+tambien tengo que rescatar los ejemplos que ya hice y tratar de subirlos a heroku, a la cuenta gratis
+
+tengo que hacer los ejempplos del libro de amazon
+
+tengo que ver todos los videos de javascript
+
+estudiar el curso de esructuras de datos
+
+y los dos de algoritmos
+
+luego entrar al bootcamp de programacion freebootcamp
+
+en dos años tengo listo todo el ERP de la empresa
