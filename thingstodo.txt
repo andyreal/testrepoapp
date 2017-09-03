@@ -1,0 +1,10 @@
+diseñar la apliacion de nomina asi:
+
+una entrada con login y password
+una pagina de registro
+
+un dashboard para manejar todas las funciones de la aplicacion
+
+de cada cosa diseñar las funcionalidades para pasar al modelo de los datos
+
+de cada modulo hacer su entrada y su salida para conectarlos en la apllicacion principal
